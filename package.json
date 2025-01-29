@@ -11,10 +11,12 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.0",
+    "@tanstack/react-query": "^5.65.1",
     "localforage": "^1.10.0",
     "match-sorter": "^8.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-helmet-async": "^2.0.5",
     "react-router-dom": "^7.1.3",
     "sort-by": "^1.2.0",
     "tailwindcss": "^4.0.0"
